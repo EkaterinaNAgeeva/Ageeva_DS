@@ -3,7 +3,7 @@ From the [Skillfactory]
 
 ## Проекты
 
-*[Проект 0. Игра:  Угадай число] (_____)
+*[Проект 0. Игра: Угадай число](https://github.com/EkaterinaNAgeeva/Ageeva_DS/tree/main/project_0)
 
 *[Проект 1. ________](______)
 
